@@ -9,6 +9,6 @@ Among the 3 city types, there were more rides in the urban type than rural (13 t
 ## Summary
 The obvious yet challenging issue to resolve to address disparities among city types would be to increase the number of drivers to help bring down costs per ride and cost per driver. However, if there is no demand for ridesharing in rural communities, increasing the number of drivers would make the problem worse. Perhaps in these communities, ridesharing may not be necessary but another form of shared vehicles may be of use. Looking strictly from January to April, there was a little rise in February, possibly attributed to holiday travel so providing holiday and other incentives may help attract customers.
 
-Due to bugs I was unable to decode, the final summary DataFrame and line graph are not available; however, the code I used is found here, should any advice be available on how to decode my issues
+Due to bugs I was unable to decode, the final summary DataFrame and line graph are not available; however, the code I used is found here, should any advice be available on how to decode my issues https://github.com/jaimiesj/PyBer_Analysis
 
 
